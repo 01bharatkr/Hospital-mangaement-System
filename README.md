@@ -1,0 +1,3 @@
+-- Simple Backend for Hospital-Management-Sysem
+-- Define Routes for Doctor and Patient
+-- Simple schema for Doctor and patient
